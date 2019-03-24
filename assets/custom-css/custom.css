@@ -1,0 +1,14 @@
+#smallerEmailText {
+    font-size: 14px;
+}
+
+#mbSmallerFontIntervention {
+    font-size:11px;
+}
+
+@media only screen and (max-width: 1200px) {
+    #mbSmallerFontIntervention {
+        font-size:9px;
+    }    
+}
+
